@@ -17,7 +17,12 @@ import plugin to your wordpress directory and activate
 ```php
 Create pages from menu
 Assign subpages either Root A or Root B page.
+
+Paste this shortcode anywhere section to your page
+[wooslider]
 ```
+
+## Screenshot
 
 ## Contributing
 
