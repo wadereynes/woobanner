@@ -23,6 +23,7 @@ Paste this shortcode anywhere section to your page
 ```
 
 ## Screenshot
+![home](https://raw.githubusercontent.com/wadereynes/woobanner/master/screenshots/home.png)
 
 ## Contributing
 
